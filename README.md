@@ -1,7 +1,7 @@
 <h1 align="center">Sistema Controle de Gasto</h1>
 
 <p align="center">
-Esse projeto foi desenvolvido par aplicar meus conhecimentos que estou aprendendo.
+Esse projeto foi desenvolvido para aplicar meus conhecimentos que estou aprendendo.
   
 <p align="center">
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
